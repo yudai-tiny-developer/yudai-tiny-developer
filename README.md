@@ -1,1 +1,1 @@
-Software development is my hobby, not my job. I have no intention of charging money for the use of the product, displaying advertisements, or soliciting donations. Instead, I do not intend to assume any responsibility for the product whatsoever.
+I have no intention of charging money for the use of the product, displaying advertisements, or soliciting donations.
