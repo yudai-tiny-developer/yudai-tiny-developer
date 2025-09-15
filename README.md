@@ -1,1 +1,2 @@
+I develop and release tiny tools that you can easily live without, but that can be a little convenient to have.
 I have no intention of charging money for the use of the product, displaying advertisements, or soliciting donations.
